@@ -1,6 +1,6 @@
 # mediaeval2016-placing
 
-This repository contain source code for experiment ran for Mediaeval workshop 2016 - The placing task.
+This repository contain source code for experiment ran for Mediaeval workshop 2016 - The placing task. Working note paper can be found here: http://slim-sig.irisa.fr/me16proc/MediaEval_2016_paper_32.pdf
 
 We use the YFCC dataset and training and test set provided by organizers of Mediaeval Benchmarking -  Placing task.
 
